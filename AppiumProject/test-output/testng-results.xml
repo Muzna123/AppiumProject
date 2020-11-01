@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61937" started-at="2020-03-13T17:05:27 IST" finished-at="2020-03-13T17:06:29 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61937" started-at="2020-03-13T17:05:27 IST" finished-at="2020-03-13T17:06:29 IST">
+      <class name="appium.VoonikApp1">
+        <test-method status="PASS" signature="connnectDB()[pri:0, instance:appium.VoonikApp1@27fe3806]" name="connnectDB" is-config="true" duration-ms="15" started-at="2020-03-13T17:05:27 IST" finished-at="2020-03-13T17:05:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connnectDB -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:appium.VoonikApp1@27fe3806]" name="openBrowser" is-config="true" duration-ms="16034" started-at="2020-03-13T17:05:27 IST" finished-at="2020-03-13T17:05:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="voonikApp1()[pri:0, instance:appium.VoonikApp1@27fe3806]" name="voonikApp1" duration-ms="45863" started-at="2020-03-13T17:05:43 IST" finished-at="2020-03-13T17:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- voonikApp1 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:appium.VoonikApp1@27fe3806]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-03-13T17:06:29 IST" finished-at="2020-03-13T17:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDB()[pri:0, instance:appium.VoonikApp1@27fe3806]" name="closeDB" is-config="true" duration-ms="0" started-at="2020-03-13T17:06:29 IST" finished-at="2020-03-13T17:06:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- appium.VoonikApp1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
